@@ -1,5 +1,6 @@
 # Vue.js Simple App
 by https://eagle-design.ir
-powered by vuejs.org
+
+powered by https://vuejs.org
 
 
